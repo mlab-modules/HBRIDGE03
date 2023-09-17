@@ -1,0 +1,14 @@
+description: Full bridge 6-45 V max 3.6A for DC motors. It uses circuit DRV8871.
+github_branch: HBRIDGE03A
+github_description: Full bridge 6-45 V max 3.6A for DC motors. It uses circuit DRV8871.
+github_repo: HBRIDGE03
+github_url: https://github.com/mlab-modules/HBRIDGE03
+homepage: false
+images:
+- doc/img/HBRIDGE03A_top_small.jpg
+- doc/img/HBRIDGE03A_top_big.jpg
+mark: 50
+status: 0
+tags: []
+title: HBRIDGE03
+updated: '2023-09-17T11:30:33.385297+00:00'

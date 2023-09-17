@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/HBRIDGE03.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/HBRIDGE03.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/HBRIDGE03
+summary: Full bridge 6-45 V max 3.6A for DC motors. It uses circuit DRV8871.
